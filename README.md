@@ -4,9 +4,9 @@ Small app for taking version from gitlab merge request and writing comment to ji
 
 ## Build container
 ```
-docker build . -t gitlab-jira-comment:1.0
+docker build . -t gitlab-jira-commenter:1.0
 ```
 ## Start container
 ```
-docker run -p 80:3000 gitlab-jira-comment:1.0
+docker run -p 80:3000 gitlab-jira-commenter:1.0
 ```
