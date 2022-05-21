@@ -1,0 +1,139 @@
+{
+    "object_kind":"merge_request",
+    "event_type":"merge_request",
+    "user":{
+       "id":33,
+       "name":"Ilya Shatalov",
+       "username":"ilya.shatalov",
+       "avatar_url":"https://git.nctresource.team/uploads/-/system/user/avatar/33/avatar.png",
+       "email":"[REDACTED]"
+    },
+    "project":{
+       "id":58,
+       "name":"Aristotélēs",
+       "description":"FS API to S3, drive, etc implementation\r\n",
+       "web_url":"https://git.nctresource.team/pythagoras/Aristoteles",
+       "avatar_url":"https://git.nctresource.team/uploads/-/system/project/avatar/58/440px-Aristotle_Altemps_Inv8575.jpg",
+       "git_ssh_url":"git@git.nctresource.team:pythagoras/Aristoteles.git",
+       "git_http_url":"https://git.nctresource.team/pythagoras/Aristoteles.git",
+       "namespace":"Pythagoras",
+       "visibility_level":0,
+       "path_with_namespace":"pythagoras/Aristoteles",
+       "default_branch":"main",
+       "ci_config_path":"",
+       "homepage":"https://git.nctresource.team/pythagoras/Aristoteles",
+       "url":"git@git.nctresource.team:pythagoras/Aristoteles.git",
+       "ssh_url":"git@git.nctresource.team:pythagoras/Aristoteles.git",
+       "http_url":"https://git.nctresource.team/pythagoras/Aristoteles.git"
+    },
+    "object_attributes":{
+       "assignee_id":null,
+       "author_id":33,
+       "created_at":"2022-05-07 08:18:41 UTC",
+       "description":"Closes PGS-1642",
+       "head_pipeline_id":null,
+       "id":6173,
+       "iid":835,
+       "last_edited_at":null,
+       "last_edited_by_id":null,
+       "merge_commit_sha":"dde7adb32c19cda34f79208bf060ba50e744b2f4",
+       "merge_error":null,
+       "merge_params":{
+          "force_remove_source_branch":"1"
+       },
+       "merge_status":"can_be_merged",
+       "merge_user_id":null,
+       "merge_when_pipeline_succeeds":false,
+       "milestone_id":null,
+       "source_branch":"PGS-1642",
+       "source_project_id":58,
+       "state_id":3,
+       "target_branch":"main",
+       "target_project_id":58,
+       "time_estimate":0,
+       "title":"Update .gitlab-ci.yml file",
+       "updated_at":"2022-05-07 08:19:17 UTC",
+       "updated_by_id":null,
+       "url":"https://git.nctresource.team/pythagoras/Aristoteles/-/merge_requests/835",
+       "source":{
+          "id":58,
+          "name":"Aristotélēs",
+          "description":"FS API to S3, drive, etc implementation\r\n",
+          "web_url":"https://git.nctresource.team/pythagoras/Aristoteles",
+          "avatar_url":"https://git.nctresource.team/uploads/-/system/project/avatar/58/440px-Aristotle_Altemps_Inv8575.jpg",
+          "git_ssh_url":"git@git.nctresource.team:pythagoras/Aristoteles.git",
+          "git_http_url":"https://git.nctresource.team/pythagoras/Aristoteles.git",
+          "namespace":"Pythagoras",
+          "visibility_level":0,
+          "path_with_namespace":"pythagoras/Aristoteles",
+          "default_branch":"main",
+          "ci_config_path":"",
+          "homepage":"https://git.nctresource.team/pythagoras/Aristoteles",
+          "url":"git@git.nctresource.team:pythagoras/Aristoteles.git",
+          "ssh_url":"git@git.nctresource.team:pythagoras/Aristoteles.git",
+          "http_url":"https://git.nctresource.team/pythagoras/Aristoteles.git"
+       },
+       "target":{
+          "id":58,
+          "name":"Aristotélēs",
+          "description":"FS API to S3, drive, etc implementation\r\n",
+          "web_url":"https://git.nctresource.team/pythagoras/Aristoteles",
+          "avatar_url":"https://git.nctresource.team/uploads/-/system/project/avatar/58/440px-Aristotle_Altemps_Inv8575.jpg",
+          "git_ssh_url":"git@git.nctresource.team:pythagoras/Aristoteles.git",
+          "git_http_url":"https://git.nctresource.team/pythagoras/Aristoteles.git",
+          "namespace":"Pythagoras",
+          "visibility_level":0,
+          "path_with_namespace":"pythagoras/Aristoteles",
+          "default_branch":"main",
+          "ci_config_path":"",
+          "homepage":"https://git.nctresource.team/pythagoras/Aristoteles",
+          "url":"git@git.nctresource.team:pythagoras/Aristoteles.git",
+          "ssh_url":"git@git.nctresource.team:pythagoras/Aristoteles.git",
+          "http_url":"https://git.nctresource.team/pythagoras/Aristoteles.git"
+       },
+       "last_commit":{
+          "id":"935542eec4772b4a4b336e0634f0260ab74f8a89",
+          "message":"Update .gitlab-ci.yml file",
+          "title":"Update .gitlab-ci.yml file",
+          "timestamp":"2022-05-07T08:18:00+00:00",
+          "url":"https://git.nctresource.team/pythagoras/Aristoteles/-/commit/935542eec4772b4a4b336e0634f0260ab74f8a89",
+          "author":[
+             "Object"
+          ]
+       },
+       "work_in_progress":false,
+       "total_time_spent":0,
+       "time_change":0,
+       "human_total_time_spent":null,
+       "human_time_change":null,
+       "human_time_estimate":null,
+       "assignee_ids":[
+          
+       ],
+       "labels":[
+          
+       ],
+       "state":"merged",
+       "blocking_discussions_resolved":true,
+       "action":"merge"
+    },
+    "labels":[
+       
+    ],
+    "changes":{
+       "state_id":{
+          "previous":4,
+          "current":3
+       },
+       "updated_at":{
+          "previous":"2022-05-07 08:19:17 UTC",
+          "current":"2022-05-07 08:19:17 UTC"
+       }
+    },
+    "repository":{
+       "name":"Aristotélēs",
+       "url":"git@git.nctresource.team:pythagoras/Aristoteles.git",
+       "description":"FS API to S3, drive, etc implementation\r\n",
+       "homepage":"https://git.nctresource.team/pythagoras/Aristoteles"
+    }
+ }

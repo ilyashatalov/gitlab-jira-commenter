@@ -1,0 +1,23 @@
+{
+  "name": "App version commenter",
+  "version": "1.0.1",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha --exit tests/*.test.js",
+    "start": "node ./app.js",
+    "dev": "nodemon -V ./app.js"
+  },
+  "author": "ilya.shatalov@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "jira-client": "^6.21.1",
+    "morgan": "^1.10.0"
+  },
+  "devDependencies": {
+    "mocha": "^10.0.0",
+    "supertest": "^6.2.3"
+  }
+}

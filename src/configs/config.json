@@ -1,0 +1,21 @@
+{
+    "services":{
+        "server": {
+            "port": 3000
+        }, 
+        "jira": {
+            "protocol": "https",
+            "host": "jira.ncloudtech.ru",
+            "port": "8090",
+            "username": "mdlogin",
+            "password": "wkpbw7wj",
+            "apiVersion": 2,
+            "strictSSL": true
+        },
+        "gitlab": {
+            "privateToken": "qznssnyzpzS3DXiKrCVy",
+            "apiUrl": "git.nctresource.team",
+            "apiPath": "/api/v4/projects/"
+        }
+    }
+}
