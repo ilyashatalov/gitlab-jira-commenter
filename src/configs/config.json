@@ -5,7 +5,7 @@
         }, 
         "jira": {
             "protocol": "https",
-            "host": "jira.ncloudtech.ru",
+            "host": "",
             "port": "8090",
             "username": "mdlogin",
             "password": "",
@@ -13,8 +13,8 @@
             "strictSSL": true
         },
         "gitlab": {
-            "privateToken": "qznssnyzpzS3DXiKrCVy",
-            "apiUrl": "git.nctresource.team",
+            "privateToken": "",
+            "apiUrl": "",
             "apiPath": "/api/v4/projects/"
         }
     }
