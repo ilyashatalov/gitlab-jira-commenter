@@ -8,7 +8,7 @@
             "host": "jira.ncloudtech.ru",
             "port": "8090",
             "username": "mdlogin",
-            "password": "wkpbw7wj",
+            "password": "",
             "apiVersion": 2,
             "strictSSL": true
         },
